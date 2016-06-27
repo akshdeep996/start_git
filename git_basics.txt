@@ -1,0 +1,15 @@
+git basic commands
+
+git clone <repository_name>
+git log
+git log --one-line --decorate --color --graph
+git status
+git branch -v
+git remote -v
+git checkout <commit_hash_value>
+git checkout -b <branch_name>
+git add <file_name>
+git add . #add all file names
+git commit -m '<commit_message>'
+git push
+git pull
